@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFuente">#393C83</color>
+    <color name="colorFuentePorcentaje">#FFF</color>
+    <color name="colorFondoSun">#86CFD6</color>
+    <color name="colorFondocloud">#CBD4D5</color>
+    <color name="colorFondorain">#9C9C9C</color>
+    <color name="colorFondonoche">#000000</color>
+
+
+</resources>
